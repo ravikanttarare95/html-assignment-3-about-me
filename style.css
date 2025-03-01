@@ -1,5 +1,13 @@
 #main-heading {
-  color: blue;
+  color: #22177A
+  ;
+  background-color:
+  #8EA3A6;
   font-size: xx-large;
   font-weight: bold;
+}
+a{
+  text-decoration: none;
+color:#820c0c;
+  font-weight:bold;
 }
